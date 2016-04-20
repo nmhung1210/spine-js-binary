@@ -26,18 +26,5 @@ spine-js works with data exported from the latest version of Spine.
 
 spine-js supports all Spine features. spine-canvas does not support mesh attachments or nonuniform scaling.~
 
-spine-js does not yet support loading the binary format.
 
-## Setup
 
-1. Download the Spine Runtimes source using [git](https://help.github.com/articles/set-up-git) or by downloading it [as a zip](https://github.com/EsotericSoftware/spine-runtimes/archive/master.zip).
-1. Include the `spine.js` file (and optionally the `spine-canvas.js` file) in your project.
-
-## Demos
-
-- [spine-canvas](http://esotericsoftware.com/files/runtimes/spine-js/example/)
-
-## Runtimes Extending spine-js
-
-- [spine-turbulenz](https://github.com/EsotericSoftware/spine-runtimes/blob/master/spine-turbulenz)
-- [spine-threejs](https://github.com/EsotericSoftware/spine-runtimes/blob/master/spine-threejs)
